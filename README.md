@@ -1,5 +1,5 @@
 ## Hi there 👋
- <i>Eu sou o Caio Gabriel sou um programador Front End, tenho 19 anos e atualmente estou aprendendo :memo: e começando a criar projetos 💻: com:<i/>
+ <i>Eu sou o Caio Gabriel sou um programador Front End, tenho 19 anos e atualmente estou aprendendo :memo: e começando a criar projetos 💻 com:<i/>
  <br>
  <br>
    
