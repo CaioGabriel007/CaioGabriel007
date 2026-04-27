@@ -8,7 +8,7 @@
    <br>
    <br>
 
-   e aumentando o meu conhecimento para e tornar um <b>Full Stack.<br/>:muscle::smile:💻
+   e aumentando o meu conhecimento para me tornar um <b>Full Stack.<br/>:muscle::smile:💻
 
   [![Caio Gabriel Stats](https://github-readme-stats.vercel.app/api?username=CaioGabriel007&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
   <br>
