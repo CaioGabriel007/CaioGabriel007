@@ -13,7 +13,7 @@
   [![Caio Gabriel Stats](https://github-stats-extended.vercel.app/api?username=CaioGabriel007)](https://github.com/stats-organization/github-stats-extended)
   <br>
   <br>
-  [![Caio Gabriel GitHub stats](https://github-stats-extended.vercel.app/api?username=CaioGabriel007)](https://github.com/stats-organization/github-stats-extended)
+ [![Top Langs](https://github-readme-extended.vercel.app/api/top-langs/?username=CaioGabriel007)](https://github.com/anuraghazra/github-readme-stats)
  <br>
  <br>
  <b>FATO CURIOSO:<b/>
