@@ -10,7 +10,7 @@
 
    e aumentando o meu conhecimento para me tornar um <b>Full Stack.<br/>:muscle::smile:💻
 
-  [![Caio Gabriel Stats](https://github-readme-extended.vercel.app/api?username=CaioGabriel007&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+  [![Caio Gabriel Stats]([![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CaioGabriel007)](https://github.com/stats-organization/github-stats-extended)
   <br>
   <br>
   [![Top Langs](https://github-readme-extended.vercel.app/api/top-langs/?username=CaioGabriel007)](https://github.com/anuraghazra/github-readme-stats)
