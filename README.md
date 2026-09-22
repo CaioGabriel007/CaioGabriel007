@@ -16,4 +16,4 @@
  <b>FATO CURIOSO:<b/>
  <br>
  <br>
- - Sempre dizia desde pequeno que eu gostaria de trabalhar com programação, e aos meus 18 anos deste ano antes de fazer aniversário; encontrei uma escola de programação online muito boa quando eu menos esperava, conhecida como DevClub, eu estava pensativo em que carreira seguir pois eu havia acabado de encerrar o ensino médio praticamente e acabei achando esta luz no final do túnel :sparkles:, e aqui estou eu, evoluindo dia após dia :smile_cat::rocket:
+ - Sempre dizia desde pequeno que eu gostaria de trabalhar com programação, e aos meus 18 anos deste ano antes de fazer aniversário; encontrei uma escola de programação online muito boa quando eu menos esperava, conhecida como DevClub, eu estava pensativo em que carreira seguir pois eu havia acabado de encerrar o ensino médio praticamente e acabei achando esta luz no fim do túnel :sparkles:, e aqui estou eu, evoluindo dia após dia :smile_cat::rocket:
